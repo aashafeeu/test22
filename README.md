@@ -1,5 +1,4 @@
 # test22
-<!DOCTYPE html>
 <html>
 <head>
     <title>My GitHub Page</title>
