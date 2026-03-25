@@ -1,10 +1,11 @@
-<h2>Salafimv</h2>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This page is hosted on GitHub.</p>
+</body>
+</html>
 
-<ul>
-  <li>
-    <a href="https://t.me/SalafiMV" target="_blank">Join Salafimv Telegram Channel</a>
-  </li>
-  <li>
-    <a href="https://abuanasmv.com/" target="_blank">Sheikh Abu Anas Mohamed Hassan Website</a>
-  </li>
-</ul>
